@@ -1,4 +1,4 @@
-<img src="https://www.lambdatest.com/resources/images/news24.gif" width="1550px" height="500px">
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="1550px" height="450px">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mainak🐱‍👤</h1>
 
